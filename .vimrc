@@ -2,7 +2,8 @@
 
 syntax on                       "syntax highlighting
 set ruler                       "bottom right ruler"
-colorscheme darkblue            "colorscheme
+colorscheme solarized           "colorscheme
+set background=dark             "for solarized dark
 set hlsearch                    "highlights all occurences of search term
 set incsearch                   "starts highlight before hitting enter
 
